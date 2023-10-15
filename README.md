@@ -29,3 +29,30 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash
 pip install matplotlib
+
+## Installation
+
+To install and run the application, follow these steps:
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone https://gitlab.com/royson316/interface-for-simulation-matrix-plotting-data-in-brief-article.git
+
+2. Change into the project directory:
+
+```bash
+cd interface-for-simulation-matrix-plotting-data-in-brief-article
+
+3. Run the application:
+
+```bash
+python main.py
+
+## Usage
+
+Launch the application by running main.py.
+Use the dropdown menus to select parameters and output variables.
+Click the "Construct matrix variable and plot" button to generate and display the plot.
+The plot will include gridlines, axis labels, and a title with variable names and units.
+
