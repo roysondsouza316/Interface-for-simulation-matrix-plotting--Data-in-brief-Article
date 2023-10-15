@@ -1,7 +1,10 @@
 # Interface for simulation matrix plotting- Data in brief Article
 
-
 This is a Python-based data visualization tool built using the Tkinter GUI library and Matplotlib for plotting. It allows users to select various parameters and plot data from text files. The tool is designed to work with specific file formats and output variable codes.
+
+Part of this work has been utilized for the publication:
+
+[_**Dsouza, Royson Donate, et al. "Mutual dependence of experimental and data analysis features in characterization of fiber‐matrix interface via microdroplets." Polymer Composites (2023).**_](https://4spepublications.onlinelibrary.wiley.com/doi/full/10.1002/pc.27649 "DOI")
 
 ## Table of Contents
 
@@ -9,8 +12,7 @@ This is a Python-based data visualization tool built using the Tkinter GUI libra
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [GUI images](#GUI_images)
 
 ## Features
 
@@ -22,7 +24,7 @@ This is a Python-based data visualization tool built using the Tkinter GUI libra
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+#### Before you begin, ensure you have met the following requirements:
 
 - Python 3.x installed.
 - Required Python packages installed. You can install them using pip:
@@ -33,7 +35,7 @@ pip install matplotlib
 
 ## Installation
 
-To install and run the application, follow these steps:
+#### To install and run the application, follow these steps:
 
 1. Clone this repository to your local machine:
 
@@ -55,13 +57,14 @@ python main.py
 
 ## Usage
 
-Launch the application by running main.py.
-Use the dropdown menus to select parameters and output variables.
-Click the "Construct matrix variable and plot" button to generate and display the plot.
-The plot will include gridlines, axis labels, and a title with variable names and units.
+* Launch the application by running main.py.
+* Use the dropdown menus to select parameters and output variables.
+* Click the "Construct matrix variable and plot" button to generate and display the plot.
+* The plot will include gridlines, axis labels, and a title with variable names and units.
 
 ## GUI images
-
+_First look_
 ![First Image](image.png)
 
+_After Entering data and plotting_
 ![Data entering and plotting](image-1.png)
