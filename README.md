@@ -60,3 +60,8 @@ Use the dropdown menus to select parameters and output variables.
 Click the "Construct matrix variable and plot" button to generate and display the plot.
 The plot will include gridlines, axis labels, and a title with variable names and units.
 
+## GUI images
+
+![First Image](image.png)
+
+![Data entering and plotting](image-1.png)
